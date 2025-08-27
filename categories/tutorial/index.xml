@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tutorial on Hugo Theme Stack Starter</title><link>https://demo.stack.jimmycai.com/categories/tutorial/</link><description>Recent content in Tutorial on Hugo Theme Stack Starter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 27 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://demo.stack.jimmycai.com/categories/tutorial/index.xml" rel="self" type="application/rss+xml"/><item><title>Using the Hugo Stack Theme</title><link>https://demo.stack.jimmycai.com/p/using-the-hugo-stack-theme/</link><pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate><guid>https://demo.stack.jimmycai.com/p/using-the-hugo-stack-theme/</guid><description>&lt;p&gt;In this tutorial post we&amp;rsquo;ll walk through the basics of working with the &lt;strong&gt;Hugo Stack&lt;/strong&gt; theme.&lt;/p&gt;
+&lt;h2 id="creating-new-posts"&gt;Creating new posts
+&lt;/h2&gt;&lt;p&gt;To create a new blog post, run the following command in your Hugo project directory:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;hugo new posts/my-first-post.md
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Hugo will create a new Markdown file under &lt;code&gt;content/posts/&lt;/code&gt; with front matter already filled in. Edit the file to add your content, then run &lt;code&gt;hugo serve&lt;/code&gt; to preview the changes locally.&lt;/p&gt;
+&lt;h2 id="customizing-the-site"&gt;Customizing the site
+&lt;/h2&gt;&lt;p&gt;The Stack theme is highly configurable via the files in &lt;code&gt;config/_default&lt;/code&gt;. You can:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Change the site title and base URL in &lt;code&gt;config.toml&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Adjust sidebar settings, colors, and widgets in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Define your navigation and social links in &lt;code&gt;menu.toml&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Refer to the &lt;a class="link" href="https://stack.jimmycai.com/config/site" target="_blank" rel="noopener"
+&gt;official documentation&lt;/a&gt; for a comprehensive guide.&lt;/p&gt;</description></item><item><title>Using the Hugo Stack Theme</title><link>https://demo.stack.jimmycai.com/using-hugo-stack-theme/</link><pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate><guid>https://demo.stack.jimmycai.com/using-hugo-stack-theme/</guid><description>&lt;p&gt;In this tutorial post we&amp;rsquo;ll walk through the basics of working with the &lt;strong&gt;Hugo Stack&lt;/strong&gt; theme.&lt;/p&gt;
+&lt;h2 id="creating-new-posts"&gt;Creating new posts
+&lt;/h2&gt;&lt;p&gt;To create a new blog post, run the following command in your Hugo project directory:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;hugo new posts/my-first-post.md
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Hugo will create a new Markdown file under &lt;code&gt;content/posts/&lt;/code&gt; with front matter already filled in. Edit the file to add your content, then run &lt;code&gt;hugo serve&lt;/code&gt; to preview the changes locally.&lt;/p&gt;
+&lt;h2 id="customizing-the-site"&gt;Customizing the site
+&lt;/h2&gt;&lt;p&gt;The Stack theme is highly configurable via the files in &lt;code&gt;config/_default&lt;/code&gt;. You can:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Change the site title and base URL in &lt;code&gt;config.toml&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Adjust sidebar settings, colors, and widgets in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Define your navigation and social links in &lt;code&gt;menu.toml&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Refer to the &lt;a class="link" href="https://stack.jimmycai.com/config/site" target="_blank" rel="noopener"
+&gt;official documentation&lt;/a&gt; for a comprehensive guide.&lt;/p&gt;</description></item></channel></rss>
